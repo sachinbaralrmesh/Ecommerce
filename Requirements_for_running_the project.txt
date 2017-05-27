@@ -1,0 +1,15 @@
+Database Creation
+
+1. Run the table script from the file create_table
+	
+
+Project set up
+
+1. Import the project into Eclipse.
+2. Add Apache Tomcat 7 into eclipse under server.
+3. Change the Database details in applicationContext.xml as per the DB setup in the system.
+4. Add the jar files from WEB-INF/lib into classpath.
+5. Add server runtime library and choose Tomcat 7 into classpath.
+6. Add the JRE System library as per the JDK installed in the system into classpath.
+7. Run the project on the server.
+8. Login URL would be http:8080/ECommerce/myCart/loginValid.
